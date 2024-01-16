@@ -1,4 +1,4 @@
-Links: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=list&envId=pwzwrhyv
+Link: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/?envType=list&envId=pwzwrhyv
 /**
  * Definition for singly-linked list.
  * public class ListNode {

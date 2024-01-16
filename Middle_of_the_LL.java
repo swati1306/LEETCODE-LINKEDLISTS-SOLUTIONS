@@ -1,4 +1,4 @@
-Links : https://leetcode.com/problems/middle-of-the-linked-list/?envType=list&envId=pwzwrhyv
+Link : https://leetcode.com/problems/middle-of-the-linked-list/?envType=list&envId=pwzwrhyv
 /**
  * Definition for singly-linked list.
  * public class ListNode {
