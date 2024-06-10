@@ -4,5 +4,5 @@
 - <b>This repo contains Leetcode Linked List Solutions.</b> <br>
 - <b>Check Out this link for problem statement.</b>
 
-**_Links: https://leetcode.com/tag/linked-list/_**
+-_[Question Link](https://leetcode.com/tag/linked-list/)
 ---
