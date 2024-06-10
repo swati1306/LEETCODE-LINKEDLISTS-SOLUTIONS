@@ -1,10 +1,8 @@
-Hey Everyone! Welcome 
-<br>
-I am Swati Kumari Singh.
-<br>
+# Hey Everyone! Welcome <br>
+## I am Swati Kumari Singh.<br>
 
-This repo contains Leetcode Linked List Solutions. 
-<br>
-Check Out this link for problem statement.
+- <b>This repo contains Leetcode Linked List Solutions.</b> <br>
+- <b>Check Out this link for problem statement.</b>
 
-Links: https://leetcode.com/tag/linked-list/
+**_Links: https://leetcode.com/tag/linked-list/_**
+---
